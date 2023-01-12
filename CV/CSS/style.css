@@ -1,0 +1,72 @@
+body {
+  border: 5px solid grey;
+  padding: 5px 20px;
+  background-color: rgb(224, 247, 224) !important;
+}
+
+img {
+  padding: 5px;
+  background-color: grey;
+}
+
+/* Fuente Texto */
+.fn {
+  font-family: "Noto Serif", serif;
+}
+
+#nom {
+  color: rgb(55, 55, 218);
+}
+
+#divs {
+  border: 1px solid gray;
+  padding: 30px;
+  background-color: rgb(198, 224, 198);
+  color: black;
+  font-family: "Noto Serif", serif;
+}
+
+footer p {
+  border: 1px solid grey;
+  background-color: rgb(209, 226, 226);
+  color: rgb(58, 56, 56);
+  font-family: "Noto Serif", serif;
+}
+
+#color {
+  background-color: rgb(198, 223, 222);
+  color: rgb(55, 55, 218);
+}
+
+h1 {
+  color: rgb(55, 55, 218) !important;
+}
+
+/* Botones Subir */
+#boton-sub {
+  background-color: rgb(198, 223, 222);
+  color: black;
+}
+
+/* Revisar */
+#boton-contact {
+  text-align: center;
+  border: 1px solid gray;
+  padding: 15px;
+  color: rgb(53, 75, 74);
+  background-color: rgb(198, 224, 198);
+}
+
+.bot {
+  border: 2px solid green;
+  background-color: rgb(198, 223, 222) !important;
+  color: rgb(55, 55, 218) !important;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
